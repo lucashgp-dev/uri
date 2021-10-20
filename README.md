@@ -1,3 +1,3 @@
 # URI
 
-Códigos Uri em C.
+Códigos URI Online Judge em C.
